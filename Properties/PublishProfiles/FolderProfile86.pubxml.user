@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\bsukusu\Documents\GitHub\240523yedek\Portal\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>False|2024-01-28T19:40:45.5938744Z;False|2024-01-28T22:29:09.5574147+03:00;False|2024-01-28T22:25:15.0702916+03:00;False|2024-01-28T21:47:29.2767631+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

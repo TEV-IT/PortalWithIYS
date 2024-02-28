@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe816b4d.css",
+    "main.js": "/static/js/main.8cb7cf0d.js",
+    "static/media/page3.jpg": "/static/media/page3.7bab5fafbeccc65014cd.jpg",
+    "static/media/page2.jpg": "/static/media/page2.53b8f1381c17b2947d9b.jpg",
+    "static/media/page1.jpg": "/static/media/page1.7d7f6fa94d4cbddef60f.jpg",
+    "static/media/confetti.png": "/static/media/confetti.1dc51e68f96d17cce154.png",
+    "static/media/TEV_logo.jpg": "/static/media/TEV_logo.06849cb0453ef9d2378c.jpg",
+    "static/media/profile.jpg": "/static/media/profile.1a97e2b9568fda162752.jpg",
+    "static/media/landing.jpg": "/static/media/landing.b68f72b6c4be7b0b66bc.jpg",
+    "static/media/ill-2.svg": "/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "index.html": "/index.html",
+    "main.fe816b4d.css.map": "/static/css/main.fe816b4d.css.map",
+    "main.8cb7cf0d.js.map": "/static/js/main.8cb7cf0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe816b4d.css",
+    "static/js/main.8cb7cf0d.js"
+  ]
+}

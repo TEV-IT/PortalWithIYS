@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dba485b7.css",
+    "main.js": "/static/js/main.f720b090.js",
+    "static/media/confetti.png": "/static/media/confetti.1dc51e68f96d17cce154.png",
+    "static/media/profile.jpg": "/static/media/profile.1a97e2b9568fda162752.jpg",
+    "static/media/landing.jpg": "/static/media/landing.b68f72b6c4be7b0b66bc.jpg",
+    "static/media/ill-2.svg": "/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "static/media/tev.jpg": "/static/media/tev.4a18dc0ef5c179d27b45.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.dba485b7.css",
+    "static/js/main.f720b090.js"
+  ]
+}
